@@ -1,6 +1,6 @@
 
 
-I am a third year graduate student in the Materials Science and Engineering department at Rensselaer Polytechnic Institute, where I am a member of the [Virtual Materials Group](https://mse.rpi.edu/people/faculty/yunfeng-shi) and the [Ab-initio multi physics group](http://abinitiomp.org/), respectively coadvised by Yunfeng Shi and Ravishankar Sundararman. 
+I am a third year graduate student in the Materials Science and Engineering department at Rensselaer Polytechnic Institute, where I am a member of the [Virtual Materials Group](https://mse.rpi.edu/people/faculty/yunfeng-shi) and the [Ab-initio multi physics group](http://abinitiomp.org/), respectively coadvised by Yunfeng Shi and Ravishankar Sundararaman. 
 
 My work focuses on using [molecular simulation](https://en.wikipedia.org/wiki/Molecular_dynamics) and machine learning to a) investigate physical mechanisms relevant for energy technologies at a microscopic scale and b) develop predictive methods to extrapolate quantum-level assumptions to bulk macroscopic properties. These molecular dynamics simulations can be used to model any kind of material (or chemically or biologically relevant microscopic system) at an atomic scale, so long as an accurate description of the interactions between constituent particles, a force field, is available.
 
